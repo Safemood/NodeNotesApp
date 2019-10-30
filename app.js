@@ -46,17 +46,22 @@ yargs.command({
 yargs.command({
     command : 'read',
     describe : 'Read a Note',
-    handler(){
-        console.log('Reading a Note')
+    builder : {
+        title : {
+            describe : 'Note Title',
+            demandOption : true,
+            type : 'string'
+        },
+    },
+    handler(argv){
+       notes.readNote(argv.title)
     }
 })
 yargs.command({
     command : 'list',
     describe : 'Listing Notes',
     handler(){
-        console.log(chalk.green.bold.inverse("Your Notes"))  
-      
-        notes.listNotes()
+    notes.listNotes()
     }
 })
 yargs.parse()
