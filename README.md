@@ -1,4 +1,4 @@
-# js notes App CLI
+# Js Notes App CLI
 
 > A simple app to (add remove list read) notes using command line
 
