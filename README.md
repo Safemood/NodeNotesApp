@@ -1,4 +1,4 @@
-# notesapp [![NPM version](https://badge.fury.io/js/notesapp.svg)](https://npmjs.org/package/notesapp) [![Build Status](https://travis-ci.org/safemood/notesapp.svg?branch=master)](https://travis-ci.org/safemood/notesapp)
+# notesapp 
 
 > A simple app to (add remove list read) notes using command line
 
