@@ -14,12 +14,12 @@ $ npm install
 ```
 
 ## Usage
-### list all Note
+### List all Note
 ```sh
 $ node app list
 ```
 
-### add a Note
+### Add a Note
 ```sh
 $ node app add --title="Nodejs" --body="Is fantastic"
 ```
