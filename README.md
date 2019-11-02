@@ -1,4 +1,4 @@
-# notesapp 
+# nodenotesapp 
 
 > A simple app to (add remove list read) notes using command line
 
