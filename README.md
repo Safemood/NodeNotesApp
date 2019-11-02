@@ -16,12 +16,12 @@ $ npm install
 ## Usage
 ### List all Note
 ```sh
-$ node app list
+$  node app list
 ```
 
 ### Add a Note
 ```sh
-$ node app add --title="Nodejs" --body="Is fantastic"
+$  node app add --title="Nodejs" --body="Is fantastic"
 ```
 ### Read a Note
 ```sh
@@ -29,7 +29,7 @@ $  node app read --title="Nodejs"
 ```
 ### Remove a Note
 ```sh
-$ node app remove --title="Nodejs"
+$  node app remove --title="Nodejs"
 ```
 
 ## License
