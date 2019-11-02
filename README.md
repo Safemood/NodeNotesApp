@@ -4,7 +4,7 @@
 
 ## Run It On Your Machine
 ```sh
-git clone git@gitlab.com:SafeMood/nodenotesapp.git
+$ git clone git@gitlab.com:SafeMood/nodenotesapp.git
 ```
 ```sh
 $ cd nodenotesapp
