@@ -1,4 +1,4 @@
-# Node notes App  
+# js notes App CLI
 
 > A simple app to (add remove list read) notes using command line
 
